@@ -1,16 +1,21 @@
-# snake_app
+# Cobras e Escadas App
 
-A new Flutter application.
+![5kfyfz](https://user-images.githubusercontent.com/34248728/130366491-3a166aef-84e4-4365-bf46-0c9d6269d084.gif)
 
-## Getting Started
+## Como usar
 
-This project is a starting point for a Flutter application.
+Para clonar e rodar o app, precisamos ter instalado o [Git](https://git-scm.com) e [Flutter](https://flutter.dev/docs/get-started/install). Logo, com as linhas de comandor executar:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+# Clonando o repositório
+$ git clone https://github.com/cesarramirez1912/teste-cobras-escadas.git
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Ir no repositório
+$ cd teste-cobras-escadas-main
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Instalar dependências
+$ flutter packages get
+
+# Rodar app
+$ flutter run
+```
